@@ -8,4 +8,4 @@ Collection of generated ROS 1 Noetic sources for Isaac ROS interface packages fo
 
 ## Latest
 
-Update 2024-05-30: Update to be compatible with JetPack 6.0
+Update 2024-09-26: Update for Isaac ROS 3.1
